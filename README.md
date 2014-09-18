@@ -12,7 +12,7 @@ the project Audit Transparency Voting Process IPT-430000- 2010-31 is a research 
 #Dummy Votes
 
 Se ha estudiado otro mecanismo para detectar la eliminación de votos de la urna digital de una votación electrónica. La integridad de la urna digital es otro aspecto importante que se debe garantizar en unas elecciones. La técnica estudiada se basa en la inserción de votos falsos o dummy votes en la urna digital durante la votación. Estos votos son indistinguibles durante la votación ya que tienen el mismo aspecto que un voto proveniente de un votante valido y son insertados del mismo modo. Una vez finalizada la votación, los dummy votes son identificados y separados del resto para realizar un correcto escrutinio.
-De este modo se consigue detectar con una cierta probabilidad posibles adiciones, modificaciones o supresiones en la urna digital durante la votación. Este estudio se ha presentado en un congreso científico nacional del ámbito [<a href="#ref3">1</a>].
+De este modo se consigue detectar con una cierta probabilidad posibles adiciones, modificaciones o supresiones en la urna digital durante la votación. Este estudio se ha presentado en un congreso científico nacional del ámbito [<a href="#ref1">1</a>].
 
 
 #TTP SmartCard-Based ElGamal Cryptosystem Using Threshold Scheme for Electronic Elections
@@ -25,11 +25,11 @@ the following building blocks for JavaCards: (i) ElGamal cryptosystem to generat
 secret sharing scheme to divide the private key in a set of shares, (iii) secure communication channels 
 for the distribution of the shares, and (iv) a decryption function without reconstructing the private key. 
 This solution can be useful for a typical e-voting system, speciﬁcally in the voting scheme presented by 
-Cramer et al. [<a href="#ref1">1</a>].
+Cramer et al. [<a href="#ref2">2</a>].
 
 You can find more information about these contributions and how they were designed and implemented in the 
 conference <a href="https://raw.github.com/AuditURV/Audit/master/paper.pdf">paper.pdf</a> presented in Foundations & Practice of Security 2011 called: TTP SmartCard-Based ElGamal 
-Cryptosystem Using Threshold Scheme for Electronic Elections [<a href="#ref2">2</a>]. In the <a href="https://raw.github.com/AuditURV/Audit/master/extendedpaper.pdf">extendedpaper.pdf</a>, you can find a 
+Cryptosystem Using Threshold Scheme for Electronic Elections [<a href="#ref3">3</a>]. In the <a href="https://raw.github.com/AuditURV/Audit/master/extendedpaper.pdf">extendedpaper.pdf</a>, you can find a 
 description of an execution example.
 
 
@@ -179,16 +179,16 @@ using ElGamal on elliptic curves).
 
 #Bibliography
 
-<a name="ref1"></a>[1] Cramer, R., Gennaro, R., Schoenmakers, B.: A secure and optimally ecient
+<a name="ref1"></a>[1] R. Jardí-Cedó, X. Taixés-Ventosa and J. Castellà-Roca, "Un Método de Detección de Integridad de una Urna Digital en Grandes Elecciones", RECSI 2012, Donostia, Spain, In Actas de la XII Reunión Española sobre Criptología y Seguridad de la Información, pp. 193-198, ISBN: 978-84-615-9933, Sep 2012.
+
+<a name="ref2"></a>[2] Cramer, R., Gennaro, R., Schoenmakers, B.: A secure and optimally ecient
 multi-authority election scheme. In: Proceedings of the 16th annual international
 conference on Theory and application of cryptographic techniques. pp. 103{118.
 EUROCRYPT'97, Springer-Verlag, Berlin, Heidelberg (1997), 
 http://portal.acm.org/citation.cfm?id=1754542.1754554
 
-<a name="ref2"></a>[2] J. Pujol-Ahullo, R. Jardi-Cedo, J. Castella-Roca, O. Farràs , 
+<a name="ref3"></a>[3] J. Pujol-Ahullo, R. Jardi-Cedo, J. Castella-Roca, O. Farràs , 
 "TTP SmartCard - based ElGamal Cryptosystem using Threshold Scheme for Electronic Elections ", 
 Foundations & Practice of Security 2011 - FPS 2011, Paris, France, May 2011. 
 http://crises2-deim.urv.cat/docs/publications/conferences/656.pdf
-
-<a name="ref3"></a>[3] R. Jardí-Cedó, X. Taixés-Ventosa and J. Castellà-Roca, "Un Método de Detección de Integridad de una Urna Digital en Grandes Elecciones", RECSI 2012, Donostia, Spain, In Actas de la XII Reunión Española sobre Criptología y Seguridad de la Información, pp. 193-198, ISBN: 978-84-615-9933, Sep 2012.
 
