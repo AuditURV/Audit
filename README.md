@@ -183,3 +183,5 @@ http://portal.acm.org/citation.cfm?id=1754542.1754554
 Foundations & Practice of Security 2011 - FPS 2011, Paris, France, May 2011. 
 http://crises2-deim.urv.cat/docs/publications/conferences/656.pdf
 
+<a name="ref2"></a>[3] R. Jardí-Cedó, X. Taixés-Ventosa and J. Castellà-Roca, "Un Método de Detección de Integridad de una Urna Digital en Grandes Elecciones", RECSI 2012, Donostia, Spain, In Actas de la XII Reunión Española sobre Criptología y Seguridad de la Información, pp. 193-198, ISBN: 978-84-615-9933, Sep 2012.
+
