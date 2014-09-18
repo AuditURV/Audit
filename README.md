@@ -8,6 +8,13 @@ the project Audit Transparency Voting Process IPT-430000- 2010-31 is a research 
 <td><a href="http://crises-deim.urv.cat" target="_blank"><img src=https://raw.github.com/AuditURV/Audit/master/figures/logoCrises.png width="140" height="50" border="0"></td></tr>
 </table></center>
 
+
+#Dummy Votes
+
+Se ha estudiado otro mecanismo para detectar la eliminación de votos de la urna digital de una votación electrónica. La integridad de la urna digital es otro aspecto importante que se debe garantizar en unas elecciones. La técnica estudiada se basa en la inserción de votos falsos o dummy votes en la urna digital durante la votación. Estos votos son indistinguibles durante la votación ya que tienen el mismo aspecto que un voto proveniente de un votante valido y son insertados del mismo modo. Una vez finalizada la votación, los dummy votes son identificados y separados del resto para realizar un correcto escrutinio.
+De este modo se consigue detectar con una cierta probabilidad posibles adiciones, modificaciones o supresiones en la urna digital durante la votación. Este estudio se ha presentado en un congreso científico nacional del ámbito [<a href="#ref3">1</a>].
+
+
 #TTP SmartCard-Based ElGamal Cryptosystem Using Threshold Scheme for Electronic Elections
 
 As a result of this research project, CRISES group has studied the feasibility of developing ElGamal 
@@ -183,5 +190,5 @@ http://portal.acm.org/citation.cfm?id=1754542.1754554
 Foundations & Practice of Security 2011 - FPS 2011, Paris, France, May 2011. 
 http://crises2-deim.urv.cat/docs/publications/conferences/656.pdf
 
-<a name="ref2"></a>[3] R. Jardí-Cedó, X. Taixés-Ventosa and J. Castellà-Roca, "Un Método de Detección de Integridad de una Urna Digital en Grandes Elecciones", RECSI 2012, Donostia, Spain, In Actas de la XII Reunión Española sobre Criptología y Seguridad de la Información, pp. 193-198, ISBN: 978-84-615-9933, Sep 2012.
+<a name="ref3"></a>[3] R. Jardí-Cedó, X. Taixés-Ventosa and J. Castellà-Roca, "Un Método de Detección de Integridad de una Urna Digital en Grandes Elecciones", RECSI 2012, Donostia, Spain, In Actas de la XII Reunión Española sobre Criptología y Seguridad de la Información, pp. 193-198, ISBN: 978-84-615-9933, Sep 2012.
 
