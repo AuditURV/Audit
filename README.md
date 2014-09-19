@@ -1,6 +1,6 @@
 The project Audit Transparency Voting Process IPT-430000- 2010-31 is a research project  leaded by Scytl Secure Electronic Voting S.A.,with the collaboration of KINETICAL BUSINESS SL, GEMATIC SA, and CRISES research group from Universitat Rovira i Virgili, and supported by the Spanish Ministry of Industry, Commerce and Tourism (through the development program INNPACTO).
 
-<a href="http://www.idi.mineco.gob.es/portal/site/MICINN/menuitem.dbc68b34d11ccbd5d52ffeb801432ea0/?vgnextoid=fe6a1b3636297310VgnVCM1000001d04140aRCRD" target="_blank"><img src="https://raw.github.com/AuditURV/Audit/master/figures/innpacto.jpeg">
+<a href="http://www.idi.mineco.gob.es/portal/site/MICINN/menuitem.dbc68b34d11ccbd5d52ffeb801432ea0/?vgnextoid=fe6a1b3636297310VgnVCM1000001d04140aRCRD" target="_blank"><img src="http://www.innopole.net/Imagenes/Logo_MINECO_INNPACTO.jpg">
 
 
 <center><table border="0">
