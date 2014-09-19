@@ -11,8 +11,7 @@ The project Audit Transparency Voting Process IPT-430000- 2010-31 is a research 
 
 #Dummy Votes
 
-Se ha estudiado otro mecanismo para detectar la eliminación de votos de la urna digital de una votación electrónica. La integridad de la urna digital es otro aspecto importante que se debe garantizar en unas elecciones. La técnica estudiada se basa en la inserción de votos falsos o dummy votes en la urna digital durante la votación. Estos votos son indistinguibles durante la votación ya que tienen el mismo aspecto que un voto proveniente de un votante valido y son insertados del mismo modo. Una vez finalizada la votación, los dummy votes son identificados y separados del resto para realizar un correcto escrutinio.
-De este modo se consigue detectar con una cierta probabilidad posibles adiciones, modificaciones o supresiones en la urna digital durante la votación. Este estudio se ha presentado en un congreso científico nacional del ámbito [<a href="#ref1">1</a>].
+We have studied other mechanism to detect the deletion votes of the digital ballot box. The integrity of the digital ballot box is another important aspect to guarantee an election. The technique studied is based on the insertion of dummy votes or false votes in the digital ballot box during the voting. These votes are indistinguishable during the voting process as they have the same appearance as a valid vote from voters and are inserted in the same way. After the vote, the dummy votes are identified and separated from the rest for appropriate scrutiny. This is achieved with a certain probability to detect possible additions, changes or deletions in the digital ballot box during the voting. This study was presented at a national scientific meeting in the field[<a href="#ref1">1</a>].
 
 
 #TTP SmartCard-Based ElGamal Cryptosystem Using Threshold Scheme for Electronic Elections
