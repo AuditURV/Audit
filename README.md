@@ -1,5 +1,5 @@
 The project Audit Transparency Voting Process IPT-430000- 2010-31 is a research project  leaded by Scytl Secure Electronic Voting S.A.,with the collaboration of KINETICAL BUSINESS SL, GEMATIC SA, and CRISES research group from Universitat Rovira i Virgili, and supported by the Spanish Ministry of Industry, Commerce and Tourism (through the development program INNPACTO).
-
+<div style="text-align:center">
 <a href="http://www.idi.mineco.gob.es/portal/site/MICINN/menuitem.dbc68b34d11ccbd5d52ffeb801432ea0/?vgnextoid=fe6a1b3636297310VgnVCM1000001d04140aRCRD" target="_blank"><img src="http://www.scytl.com/wp-content/uploads/2013/05/Logo_MINECO-+FEDER1.jpg"width="197" height="128">
 
 <center><table border="0">
@@ -7,7 +7,7 @@ The project Audit Transparency Voting Process IPT-430000- 2010-31 is a research 
 <td><a href="http://www.urv.cat" target="_blank"><img src=https://raw.github.com/AuditURV/Audit/master/figures/logoURV.png border="0"></td>
 <td><a href="http://crises-deim.urv.cat" target="_blank"><img src=https://raw.github.com/AuditURV/Audit/master/figures/logoCrises.png width="140" height="50" border="0"></td></tr>
 </table></center>
-
+</div>
 
 #Dummy Votes
 
