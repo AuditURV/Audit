@@ -2,8 +2,7 @@
 
 El Ministerio de Economía y Competitividad español (MINECO), dentro del Plan Nacional de Investigación Científica, Desarrollo e Innovación Tecnológica 2008-2011, concedió ayuda al proyecto “Audit Transparency Voting Process” liderado por Scytl con número de expediente IPT-430000-2010-31. Este proyecto ha sido financiado por el Ministerio de Economía y Competitividad (MINECO) y el Fondo Europeo de Desarrollo Regional (FEDER) dentro del Subprograma INNPACTO, Convocatoria 2010. El objetivo del proyecto es el desarrollo de una nueva plataforma de voto electrónico que incorpora un rediseño del actual protocolo criptográfico definido por Scytl, para incluir mecanismos de criptografía avanzada y así lograr una auditoría de extremo a extremo de forma más eficiente.
 
-<a href="http://www.mineco.gob.es/" target="_blank"><img src="http://www.innopole.net/Imagenes/Logo_MINECO_INNPACTO.jpg">
-
+<a href="http://www.mineco.gob.es/" target="_blank"><img src="http://www.salinas.es/sites/default/files/Logo_MINECO_INNPACTO.jpg">
 
 <center><table border="0">
 <tr><td><a href="http://www.scytl.es" target="_blank"><img src=https://raw.github.com/AuditURV/Audit/master/figures/logoScytl.png width="130" border="0"></td>
